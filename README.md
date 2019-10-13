@@ -11,3 +11,8 @@
 >     <p>This has been indented 4 spaces.</p>
 
 This is *emphasized* _text_.
+
+  #Now comes the python shit
+  print ("I am learning markdown when I am supposed to be studying for my InSems")
+  print("Fuck, I almost added a semicolon in Python")
+  print("Python 2.7 will be sorely missed")
