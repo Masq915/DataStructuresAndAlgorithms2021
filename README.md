@@ -7,7 +7,7 @@
 > * Java
 > * Python 3
 *******
-** For Contributors** 
+**For Contributors** 
 
 Contributions to the repository are welcome via Pull Requests, provided that they satisfy some of the basic rules and Code-Styles:
 * Code should be written in GitHub Code style only, that is, 4-space indent.
