@@ -20,3 +20,12 @@ This is *emphasized* _text_.
 Markdown is a `<em>text-to-html</em>` conversion tool for writers.
 ***********
 This is an [example link](http://example.com/ "With a Title").
+
+This is a guide on Markdown [Markdown][1].
+
+Bullshit
+Crapload \s\s
+Nothing to write \s\s
+My version of Lorem Ipsum \s\s
+
+[1]: http://en.wikipedia.org/wiki/Markdown        "Markdown"
