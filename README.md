@@ -16,3 +16,5 @@ This is *emphasized* _text_.
     print ("I am learning markdown when I am supposed to be studying for my InSems")
     print("Fuck, I almost added a semicolon in Python")
     print("Python 2.7 will be sorely missed")
+
+Markdown is a `<em>text-to-html</em>` conversion tool for writers.
