@@ -1,5 +1,5 @@
     //Iterative implementation of Binary Search in C++
-    
+    //Code contributed by Dushyant Pathak(dkp1903)
     #include<bits/stdc++.h>
     using namespace std;
     
