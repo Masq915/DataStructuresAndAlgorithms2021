@@ -1,6 +1,6 @@
 ![The plethora of Competitive Coding](https://github.com/dkp1903/DataStructuresAndAlgorithms2019/blob/master/CP%20Logo.png "DataStructuresAndAlgorithms2019")
 
-> ## Competitive Coding
+> ## Data Structures And Algorithms, with an interview prep focus
 > 
 > This repository contains an exhaustive set of codes based on Data Structures and Algorithms  
 > each segregated topic-wise, each code being available in the following languages:
