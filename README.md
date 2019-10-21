@@ -1,3 +1,4 @@
+![The plethora of Competitive Coding](https://www.google.com/search?tbm=isch&sxsrf=ACYBGNQDIDl1FF3oLHKp-xpgP5lOEP_Xww%3A1571644604568&source=hp&biw=1536&bih=722&ei=vGStXYWhIMLd9QOAhpnADA&q=competitive+coding&oq=competitive+coding&gs_l=img.3..0l4j0i24l6.1033.3338..3523...0.0..0.248.3376.0j10j7......0....1..gws-wiz-img.......35i39j0i131j0i8i30.Na0NT2_swoA&ved=0ahUKEwiF7_ay8KzlAhXCbn0KHQBDBsgQ4dUDCAY&uact=5#imgrc=bpZiYTnLxoXyuM "DataStructuresAndAlgorithms2019")
 
 > ## Competitive Coding
 > 
