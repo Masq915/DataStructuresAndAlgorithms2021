@@ -4,5 +4,5 @@ This folder contains a vast number of questions solved on [Codechef](https://www
 
 __Contributors__ need to add question and answer in separate files.
 
-                          * Dushyant Pathak
-                          * Owner, DataStructuresAndAlgorithms2019
+                          - Dushyant Pathak
+                          - Owner, DataStructuresAndAlgorithms2019
