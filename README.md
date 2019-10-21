@@ -17,5 +17,5 @@ Contributions to the repository are welcome via Pull Requests, provided that the
 * Contributions are welcome in all the three languages, C++, Java, Python 3.
 
                                               - Dushyant Pathak
-                                              - dushyantpathak6789@gmail.com
+                                              - Owner, DataStructuresAndAlgorithms2019
 
